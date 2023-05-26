@@ -18,6 +18,7 @@ Skills:
 - Linux 🐧
 - Selenium, Cypress, RobotFramework 🌐 
 - TestNG, JUnit, Mocha-Chai 🌲 
+- Axios, RestAssured, Unirest, Postman 📊
 - MySQL 🗄️ 
 - Jira & TestRail 📊 
 - Docker, Jenkins 🚀 
