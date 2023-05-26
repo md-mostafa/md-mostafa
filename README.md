@@ -2,22 +2,31 @@
 #### QA Automation Engineer
 ![QA Automation Engineer](https://media.licdn.com/dms/image/C5616AQFZDWvhFSmQjA/profile-displaybackgroundimage-shrink_350_1400/0/1649794604412?e=1690416000&v=beta&t=fT3SfJYI8UhumMcSXK7futiiZY4J_cGDbvhtV8GKBnM)
 
-Hi am currently working as a QA Automation Engineer. 
-- My expertise lies in Ui Testing, API Testing, Database Testing
-- I have a strong command over a wide range of testing tools and frameworks including :
-- 1. Selenium, Cypress, RobotFramework
-    2. TestNG, JUnit, Mocha-Chai
-    3. Axios, RestAssured, Unirest, Postman
-    4. MySQL
-    5. Jira & TestRail
-    6.  Docker, Jenkins
-    7. Git
+Hi am currently working as a QA Automation Engineer.
+<br>
+<br>
+Allow me to share a couple of facts about myself. 🌟
+- I'm an individual fueled by passion in everything I do, including my role as a QA Automation Engineer. 🔥✨
+- Whether it's testing, problem-solving, or learning new technologies, I approach every task with enthusiasm and a desire to excel. 💪🌟
+- Meeting deadlines is not just a goal for me; it's a commitment I take seriously, ensuring timely and efficient completion of tasks. ⏰✅
+- I love myself on being a hardworking individual, always willing to go the extra mile to achieve exceptional results. 💯💼
+- Currently, I'm focused on enhancing my communication skills, recognizing their crucial role in collaborating effectively with team members and stakeholders. 🗣️💬
 
+<hr>
 
-Skills: Test Automation / Web Development / Database / Linux
+Skills: 
+- Linux 🐧
+- Selenium, Cypress, RobotFramework 🌐 
+- TestNG, JUnit, Mocha-Chai 🌲 
+- MySQL 🗄️ 
+- Jira & TestRail 📊 
+- Docker, Jenkins 🚀 
+- Git 🌿 
+- Web Development 💻
 
-- 💬 Ask me about Ui Testing, API Testing, Database Testing 
-- 📫 How to reach me: md.mostafa.akash@gmail.com 
+<hr>
+
+<br> 📫 How to reach me: md.mostafa.akash@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/md-mostafa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-mostafa-55bb341a6/)  
