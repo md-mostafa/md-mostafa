@@ -16,7 +16,7 @@ Allow me to share a couple of facts about myself. 🌟
 
 Skills: 
 - Linux 🐧
-- Selenium, Cypress, RobotFramework 🌐 
+- Selenium, Appium, Cypress, RobotFramework 🌐 
 - TestNG, JUnit, Mocha-Chai 🌲 
 - Axios, RestAssured, Unirest, Postman 📊
 - MySQL 🗄️ 
