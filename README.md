@@ -27,7 +27,9 @@ Skills:
 
 <hr>
 
-<br> 📫 How to reach me: md.mostafa.akash@gmail.com 
+<br> <div> 📫 How to reach me: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="md-mostafa-akash" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/md-mostafa-akash?trk=profile-badge">Md Mostafa</a></div>
+</div>
+              
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/md-mostafa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-mostafa-55bb341a6/)  
