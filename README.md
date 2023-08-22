@@ -1,8 +1,10 @@
 ### Hi there 👋, my name is **Md Mostafa**
 #### QA Automation Engineer
-![QA Automation Engineer](https://media.licdn.com/dms/image/C5616AQFZDWvhFSmQjA/profile-displaybackgroundimage-shrink_350_1400/0/1649794604412?e=1690416000&v=beta&t=fT3SfJYI8UhumMcSXK7futiiZY4J_cGDbvhtV8GKBnM)
+
+![1](https://github.com/md-mostafa/md-mostafa/assets/41513761/ddfff76e-15cf-4916-816e-2c3e3f03b0f4)
 
 Hi am currently working as a QA Automation Engineer.
+
 <br>
 <br>
 Allow me to share a couple of facts about myself. 🌟
@@ -16,7 +18,7 @@ Allow me to share a couple of facts about myself. 🌟
 
 Skills: 
 - Linux 🐧
-- Selenium, Appium, Cypress, RobotFramework 🌐 
+- Selenium, Appium, Cypress, Cucumber, WebdriverIO, RobotFramework 🌐 
 - TestNG, JUnit, Mocha-Chai 🌲 
 - Axios, RestAssured, Unirest, Postman 📊
 - MySQL 🗄️ 
