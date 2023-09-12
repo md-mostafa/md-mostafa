@@ -6,17 +6,17 @@
 Hi am currently working as a QA Automation Engineer.
 
 <br>
-<br>
 Allow me to share a couple of facts about myself. 🌟
-- 🔥✨ I'm an individual fueled by passion in everything I do, including my role as a QA Automation Engineer. 
-- 💪🌟 Whether it's testing, problem-solving, or learning new technologies, I approach every task with enthusiasm and a desire to excel. 
-- ⏰✅ Meeting deadlines is not just a goal for me; it's a commitment I take seriously, ensuring timely and efficient completion of tasks. 
-- 💯💼 I love myself on being a hardworking individual, always willing to go the extra mile to achieve exceptional results. 
-- 🗣️💬 Currently, I'm focused on enhancing my communication skills, recognizing their crucial role in collaborating effectively with team members and stakeholders. 
+<li>🔥✨ I'm an individual fueled by passion in everything I do, including my role as a QA Automation Engineer.</li> 
+<li>💪🌟 Whether it's testing, problem-solving, or learning new technologies, I approach every task with enthusiasm and a desire to excel. </li> 
+<li>⏰✅ Meeting deadlines is not just a goal for me; it's a commitment I take seriously, ensuring timely and efficient completion of tasks. </li>
+<li> 💯💼 I love myself on being a hardworking individual, always willing to go the extra mile to achieve exceptional results. </li>
+<li>🗣️💬 Currently, I'm focused on enhancing my communication skills, recognizing their crucial role in collaborating effectively with team members and stakeholders.</li>  
 
 <hr>
 
-Skills: 
+<h3>Skills</h3>
+
 - 🐧 Linux 
 - 🌐 Selenium, Appium, Cypress, Cucumber, WebdriverIO, RobotFramework
 - 🌲 TestNG, JUnit, Mocha-Chai 
