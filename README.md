@@ -15,8 +15,8 @@ I am a passionate QA Automation Engineer and Software Engineer with a focus on b
 - **Bug Tracking & Test Management**: Jira, TestRail
 
 #### **Software Development & Infrastructure:**
-- **Languages & Frameworks**: Expo, React Native, Next.js, Nestjs
-- **Cloud & DevOps**: AWS (CDK, ECS, ECR SES, SQS, RDS, Cloudwatch, Cloudtrail), Docker, Jenkins, CI/CD (Gitlab, Github Actions)
+- **Languages & Frameworks**: Next.js Nestjs, Amplify, React Native, Expo
+- **Cloud & DevOps**: AWS (CDK, ECS, ECR SES, SQS, RDS, Cloudwatch, Cloudtrail, WAF, Amplify, Cognito), Docker, Jenkins, CI/CD (Gitlab, Github Actions)
 - **Databases**: MySQL, PostgreSQL
 
 ---
