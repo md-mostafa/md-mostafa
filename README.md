@@ -9,7 +9,7 @@ I am a passionate Software Engineer and QA Automation Engineer with a focus on b
 
 ### 🛠️ **Tech Stack and Expertise:**
 
-#### **Software Development & Infrastructure:**
+#### **Software Development & DevOps:**
 - **Languages & Frameworks**: Next.js Nestjs, React, Amplify, React Native, Expo
 - **Cloud & DevOps**: AWS (CDK, ECS, ECR SES, SQS, RDS, Cloudwatch, Cloudtrail, WAF, Amplify, Cognito), Docker, Jenkins, CI/CD (Gitlab, Github Actions)
 - **Databases**: MySQL, PostgreSQL
