@@ -3,16 +3,11 @@
 
 ![1](https://github.com/md-mostafa/md-mostafa/assets/41513761/ddfff76e-15cf-4916-816e-2c3e3f03b0f4)
 
-I am a passionate QA Automation Engineer and Software Engineer with a focus on building scalable, efficient, and reliable systems. I specialize in end-to-end testing automation, API development, cloud infrastructure management, and CI/CD pipeline optimization.
+I am a passionate Software Engineer and QA Automation Engineer with a focus on building scalable, efficient, and reliable systems. I specialize in end-to-end testing automation, API development, cloud infrastructure management, and CI/CD pipeline optimization.
 
 ---
 
 ### 🛠️ **Tech Stack and Expertise:**
-
-#### **Quality Assurance & Automation:**
-- **Automation Frameworks**: Selenium, Appium, Cypress, WebdriverIO, Cucumber, RobotFramework
-- **Testing Tools**: TestNG, JUnit, Mocha-Chai, Postman, RestAssured
-- **Bug Tracking & Test Management**: Jira, TestRail
 
 #### **Software Development & Infrastructure:**
 - **Languages & Frameworks**: Next.js Nestjs, React, Amplify, React Native, Expo
@@ -20,6 +15,11 @@ I am a passionate QA Automation Engineer and Software Engineer with a focus on b
 - **Databases**: MySQL, PostgreSQL
 - **Others** : Zustand, Supabase, TanStackQuery, yup
 - **AI Agent** : Lovable
+
+#### **Quality Assurance & Automation:**
+- **Automation Frameworks**: Selenium, Appium, Cypress, WebdriverIO, Cucumber, RobotFramework
+- **Testing Tools**: TestNG, JUnit, Mocha-Chai, Postman, RestAssured
+- **Bug Tracking & Test Management**: Jira, TestRail
 
 ---
 
