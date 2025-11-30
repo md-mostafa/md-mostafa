@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is **Md Mostafa**
-#### Software Engineer | QA Automation Engineer
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;QA+Automation+Engineer;Rust+Backend+Developer;Cloud+Enthusiast;BlockChain+Enthusiast)](https://git.io/typing-svg)
+
 
 ![1](https://github.com/md-mostafa/md-mostafa/assets/41513761/ddfff76e-15cf-4916-816e-2c3e3f03b0f4)
 
@@ -213,3 +215,5 @@ If you'd like to collaborate, discuss an opportunity, or just connect, feel free
 
 ### 👀 Profile Views  
 ![](https://komarev.com/ghpvc/?username=md-mostafa&style=for-the-badge&color=blue)
+
+
