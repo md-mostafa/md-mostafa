@@ -7,142 +7,123 @@ I am a passionate Software Engineer and QA Automation Engineer with a focus on b
 
 ---
 
-### 🛠️ **Tech Stack & Expertise**
+## 🛠️ Tech Stack & Expertise
 
----
-
+### 💻 Software Development
 <details>
-  <summary><strong>💻 Software Development</strong></summary>
+  <summary><strong>Click to expand</strong></summary>
   <br/>
 
-- **Languages & Frameworks:**
-
-  - Rust, Python, TypeScript
-  - Next.js,Svelte, React, React Native
-  - NestJS, Amplify Gen 2, Axum,
-  - Expo
-
-- **State & Data:**  
-  Zustand, TanStack Query, Supabase, Zod/Yup
-
-- **Databases:**  
-  - PostgreSQL, MySQL
- 
-- **API:**
-  - RestAPI
-  - GraphQL
-
-</details>
-
-
-<details>
-  <summary><strong>☁️ Cloud & DevOps</strong></summary>
-  <br/>
-
-- **AWS Services:**  
-  CDK, ECS, ECR, SES, SQS, RDS, WAF, CloudWatch, CloudTrail, Amplify, Cognito
-
-- **DevOps & CI/CD:**  
-  Docker, GitHub Actions, GitLab CI, Jenkins
-
-</details>
-
-
-
-<details>
-  <summary><strong>🧪 QA Automation</strong></summary>
-  <br/>
-
-- **Automation Frameworks:**  
-  Selenium, Cypress, Appium, WebdriverIO, Robot Framework, Cucumber
-
-- **Testing Tools:**  
-  TestNG, JUnit, Mocha/Chai, Postman, RestAssured
-
-- **Test Management:**  
-  Jira, TestRail
-
-</details>
-
-
-<details>
-  <summary><strong>🤖 AI & Other Tools</strong></summary>
-  <br/>
-
-- **AI Tools:**  
-  Lovable
-
-- **Misc:**  
-  REST API development, CI/CD pipelines, frontend/backed integration
+**Languages:** Rust, TypeScript, Python  
+**Frameworks:** Next.js, React, Svelte, React Native, NestJS, Axum, Expo  
+**State & Data:** Zustand, TanStack Query, Supabase, Zod/Yup  
+**Databases:** PostgreSQL, MySQL  
+**API:** REST, GraphQL  
 
 </details>
 
 ---
 
-## 🏢 Professional Experience  
-Below is a curated overview of my industry experience across multiple companies and roles.  
-*(Click on any company to expand and view key projects you contributed to.)*
-
+### ☁️ Cloud & DevOps
 <details>
-  <summary><strong>JB Connect Ltd — Software Engineer</strong></summary>
+  <summary><strong>Click to expand</strong></summary>
+  <br/>
 
-#### Key Projects & Responsibilities
-- **Current Project (Rust & Svelte):** Developing a comprehensive Restaurant Management Console, utilizing Rust (Axum) for high-performance backend logic and Svelte for a reactive frontend, enabling real-time sales analysis and transaction monitoring.
-
-- **Serverless Migration:** Key contributor in migrating legacy systems to a serverless architecture using AWS Amplify Gen 2; designed complex GraphQL APIs and integrated a system-wide email templating solution.
-
-- **Backend Systems (NestJS):** Engineered an automated reward calculation system for B2B partners using NestJS, leveraging AWS ECS and SQS to handle asynchronous data processing reliably.
-
-- **DevOps & Infrastructure:** Architected production and staging environments from scratch using AWS CDK. Provisioned ECS, RDS, Lambda, and WAF/CloudFront, and reduced deployment friction by creating custom Bash scripts and GitLab CI/CD pipelines.
-
-- **Full-Stack Development:** Built the foundational B2B platform using Next.js, creating both client-side interfaces and server-side API routes to manage business partner operations and point services.
-
-- Onboarded and trained new developers, promoting collaboration and independence across the team.
+**AWS:** CDK, ECS, ECR, SES, SQS, RDS, WAF, CloudWatch, CloudTrail, Amplify, Cognito  
+**DevOps:** Docker, GitHub Actions, GitLab CI, Jenkins  
 
 </details>
 
+---
 
+### 🧪 QA Automation
 <details>
-  <summary><strong>Itransition Software Bangladesh — QA Automation Engineer</strong></summary>
+  <summary><strong>Click to expand</strong></summary>
+  <br/>
 
-#### Projects & Responsibilities
-**Project 1: Medical Domain (Java, Selenium, UI & API Automation)**
-- Leveraged Selenium, Java, Unirest, and RestAssured to conduct automation testing in the medical domain.
-- Demonstrated proficiency in using Lombok, Enums, Java Streams, and JDBC.
-- Developed automation scripts to ensure comprehensive test coverage.
-
-**Project 2: Mobile App Automation (Selenium, Cucumber, Appium)**
-- Implemented Appium and Cucumber BDD for mobile app automation.
-- Successfully automated two mobile apps using Appium, Cucumber, BDD, and TestNG.
-
-**Project 3: Entertainment Domain (Appium, Cucumber)**
-- Conducted mobile app automation using Appium and Cucumber.
-- Completed internal Appium course and demonstrated proficiency with Android Studio emulator and Android ADB.
-- Applied software design patterns and adhered to SOLID principles.
-
-**Project 4: Global Maritime Ship Tracking (WebdriverIO, BDD)**
-- Completed a WebdriverIO course prior to the project.
-- Conducted smoke, regression, and sanity tests in the global maritime ship tracking domain.
-- Developed automation scripts using BDD and WebdriverIO within the project's custom framework
-</details>
-
-
-<details>
-  <summary><strong>a1qa — QA Automation Engineer Intern</strong></summary>
-
-#### Projects & Responsibilities
-1. Automation tests development
-2. Running tests and analyzing results
-3. Setting up and supporting environment for running automated tests
-4. Communication with the project team.
+**Frameworks:** Selenium, Cypress, Appium, WebdriverIO, Robot Framework, Cucumber  
+**Testing Tools:** TestNG, JUnit, Mocha/Chai, Postman, RestAssured  
+**Test Management:** Jira, TestRail  
 
 </details>
 
+---
 
-### 🔗 See full role history & details  
-➡️ [Visit my LinkedIn Profile](https://www.linkedin.com/in/md-mostafa-akash/)
+### 🤖 AI & Misc Tools
+<details>
+  <summary><strong>Click to expand</strong></summary>
+  <br/>
 
+**AI Tools:** Lovable  
+**Other:** CI/CD pipelines, system design, REST API development, frontend/backend integration  
 
+</details>
+
+---
+
+# 🏢 Professional Experience  
+A curated overview of my experience across multiple companies & roles.  
+*(Click each company to expand)*
+
+---
+
+### **JB Connect Ltd — Software Engineer**
+<details>
+  <summary><strong>View Experience</strong></summary>
+  <br/>
+
+- **Rust + Svelte Project:** Built a restaurant management console with Axum backend + Svelte frontend, enabling real-time sales & transaction monitoring.  
+- **Amplify Gen 2 Migration:** Designed GraphQL APIs, serverless workflows, and templated email systems.  
+- **Backend Systems (NestJS):** Developed automated B2B reward calculation using ECS + SQS.  
+- **Cloud Architecture:** Created production-ready AWS infrastructure using CDK (ECS, RDS, WAF, CloudFront).  
+- **DevOps:** Automated deployment pipelines with GitLab CI + custom Bash scripts.  
+- **Full-Stack:** Built core B2B features in Next.js.  
+- **Team:** Onboarded & mentored new engineers.  
+
+</details>
+
+---
+
+### **Itransition Software Bangladesh — QA Automation Engineer**
+<details>
+  <summary><strong>View Experience</strong></summary>
+  <br/>
+
+**Medical Domain (Java, Selenium, API):**  
+- Automated UI & API using Selenium, Unirest, RestAssured  
+- Used Lombok, Enums, Streams, JDBC  
+
+**Mobile Automation (Appium + Cucumber):**  
+- Automated two mobile apps using Appium, TestNG, BDD  
+
+**Entertainment Domain (Appium):**  
+- Mobile automation with Appium + Cucumber  
+- Applied SOLID principles + design patterns  
+
+**Ship Tracking System (WebdriverIO):**  
+- Smoke, regression, sanity testing  
+- Built BDD scripts using WebdriverIO  
+
+</details>
+
+---
+
+### **a1qa — QA Automation Intern**
+<details>
+  <summary><strong>View Experience</strong></summary>
+  <br/>
+
+- Developed automation tests  
+- Ran and analyzed test suites  
+- Managed test environments  
+- Collaborated with cross-functional teams  
+
+</details>
+
+---
+
+🔗 **See full experience on LinkedIn:**  
+👉 https://www.linkedin.com/in/md-mostafa-akash/
 
 ---
 
@@ -167,6 +148,4 @@ A high-performance, event-driven flash sale system built with clean architecture
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=md-mostafa)  
-
-![Profile views](https://gpvc.arturio.dev/md-mostafa)  
+![Profile views](https://gpvc.arturio.dev/md-mostafa)
