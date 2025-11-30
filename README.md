@@ -3,7 +3,13 @@
 
 ![1](https://github.com/md-mostafa/md-mostafa/assets/41513761/ddfff76e-15cf-4916-816e-2c3e3f03b0f4)
 
-I am a passionate Software Engineer and QA Automation Engineer with a focus on building scalable, efficient, and reliable systems. I specialize in end-to-end testing automation, API development, cloud infrastructure management, and CI/CD pipeline optimization.
+## 👨‍💻 About Me  
+I’m a Software Engineer & QA Automation Engineer passionate about building scalable systems, high-quality automation frameworks, and cloud-native backend services.
+
+- 🔭 Currently working with **Rust, Svelte**
+- 🌱 Learning **Distributed Systems & BlockChain**
+- ⚙️ Passionate about **Distributed Systems, performance, cloud infrastructure**
+- 🤝 Open to collaborating on **Rust / Backend / Automation projects**
 
 ---
 
@@ -171,13 +177,10 @@ If you'd like to collaborate, discuss an opportunity, or just connect, feel free
 
 ---
 
-### 📧 Email  
-**md.mostafa.akash@gmail.com**
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:md.mostafa.akash@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mostafa-akash/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/md-mostafa)
 
-### 🔗 Links  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/md-mostafa-akash/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/md-mostafa)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](#)
 
 ---
 
