@@ -32,6 +32,21 @@ I am a passionate Software Engineer and QA Automation Engineer with a focus on b
 
 ---
 
+# 📂 Personal Projects  
+### *(Click to expand each section)*
+
+<details>
+  <summary><strong>🦀 Rust Projects</strong></summary>
+  <br/>
+
+### 🔹 **Flash Sales System In Rust (RabbitMQ)**  
+A high-performance, event-driven flash sale system built with clean architecture.<br/>
+👉 **Repo:** [flash-sale-rust](https://github.com/md-mostafa/flash-sale-rust)
+
+---
+</details>
+
+
 <br> <div> 📫 How to reach me: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="md-mostafa-akash" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/md-mostafa-akash?trk=profile-badge">Md Mostafa</a></div>
 </div>
 
