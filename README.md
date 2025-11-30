@@ -30,6 +30,22 @@ I’m a Software Engineer & QA Automation Engineer passionate about building sca
 
 <h2 id="tech-stack">🛠️ Tech Stack & Expertise</h2>
 
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-663399?logo=appium&logoColor=white)
+
 ---
 
 <h3 id="software-development">💻 Software Development</h3>
@@ -171,6 +187,15 @@ A high-performance, event-driven flash sale system built with clean architecture
 
 ---
 
+## 💡 Why Work With Me?
+
+- I bring **full-stack + automation + cloud** experience
+- I design systems with **performance, reliability & security** in mind  
+- I scale automation that saves hundreds of engineering hours  
+- I love **fast-paced teams, ambiguous problems, ownership**  
+
+
+
 <h1 id="contact">📬 Contact</h1>
 
 If you'd like to collaborate, discuss an opportunity, or just connect, feel free to reach out:
@@ -183,6 +208,8 @@ If you'd like to collaborate, discuss an opportunity, or just connect, feel free
 
 
 ---
+
+
 
 ### 👀 Profile Views  
 ![](https://komarev.com/ghpvc/?username=md-mostafa&style=for-the-badge&color=blue)
