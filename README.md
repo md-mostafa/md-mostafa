@@ -15,14 +15,22 @@ I am a passionate Software Engineer and QA Automation Engineer with a focus on b
   <summary><strong>💻 Software Development</strong></summary>
   <br/>
 
-- **Languages & Frameworks:**  
-  Next.js, NestJS, React, React Native, Expo, Amplify Gen 2, Axum, Svelte
+- **Languages & Frameworks:**
+
+  - Rust, Python, TypeScript
+  - Next.js,Svelte, React, React Native
+  - NestJS, Amplify Gen 2, Axum,
+  - Expo
 
 - **State & Data:**  
   Zustand, TanStack Query, Supabase, Zod/Yup
 
 - **Databases:**  
-  PostgreSQL, MySQL
+  - PostgreSQL, MySQL
+ 
+- **API:**
+  - RestAPI
+  - GraphQL
 
 </details>
 
@@ -71,18 +79,74 @@ I am a passionate Software Engineer and QA Automation Engineer with a focus on b
 
 ---
 
+## 🏢 Professional Experience  
+Below is a curated overview of my industry experience across multiple companies and roles.  
+*(Click on any company to expand and view key projects you contributed to.)*
 
-### 🚀 **Projects and Contributions:**
-1. **React Native Mobile Apps**: Developed UI components and built CI/CD pipelines for seamless automated deployments.
-2. **AWS Infrastructure Modernization**: Migrated AWS CDK from v1 to v2, added a Web Application Firewall (WAF) for enhanced security.
-3. **API Development**: Created REST APIs to enable key system functionalities, including project registration and public-link features.
-4. **CI/CD Pipeline Optimization**: Redesigned AWS pipelines for improved efficiency and deployment workflows.
-5. **Team Training**: Mentored junior engineers, ensuring team self-sufficiency and smooth project execution.
+<details>
+  <summary><strong>JB Connect Ltd — Software Engineer</strong></summary>
+
+#### Key Projects & Responsibilities
+- **Current Project (Rust & Svelte):** Developing a comprehensive Restaurant Management Console, utilizing Rust (Axum) for high-performance backend logic and Svelte for a reactive frontend, enabling real-time sales analysis and transaction monitoring.
+
+- **Serverless Migration:** Key contributor in migrating legacy systems to a serverless architecture using AWS Amplify Gen 2; designed complex GraphQL APIs and integrated a system-wide email templating solution.
+
+- **Backend Systems (NestJS):** Engineered an automated reward calculation system for B2B partners using NestJS, leveraging AWS ECS and SQS to handle asynchronous data processing reliably.
+
+- **DevOps & Infrastructure:** Architected production and staging environments from scratch using AWS CDK. Provisioned ECS, RDS, Lambda, and WAF/CloudFront, and reduced deployment friction by creating custom Bash scripts and GitLab CI/CD pipelines.
+
+- **Full-Stack Development:** Built the foundational B2B platform using Next.js, creating both client-side interfaces and server-side API routes to manage business partner operations and point services.
+
+- Onboarded and trained new developers, promoting collaboration and independence across the team.
+
+</details>
+
+
+<details>
+  <summary><strong>Itransition Software Bangladesh — QA Automation Engineer</strong></summary>
+
+#### Projects & Responsibilities
+**Project 1: Medical Domain (Java, Selenium, UI & API Automation)**
+- Leveraged Selenium, Java, Unirest, and RestAssured to conduct automation testing in the medical domain.
+- Demonstrated proficiency in using Lombok, Enums, Java Streams, and JDBC.
+- Developed automation scripts to ensure comprehensive test coverage.
+
+**Project 2: Mobile App Automation (Selenium, Cucumber, Appium)**
+- Implemented Appium and Cucumber BDD for mobile app automation.
+- Successfully automated two mobile apps using Appium, Cucumber, BDD, and TestNG.
+
+**Project 3: Entertainment Domain (Appium, Cucumber)**
+- Conducted mobile app automation using Appium and Cucumber.
+- Completed internal Appium course and demonstrated proficiency with Android Studio emulator and Android ADB.
+- Applied software design patterns and adhered to SOLID principles.
+
+**Project 4: Global Maritime Ship Tracking (WebdriverIO, BDD)**
+- Completed a WebdriverIO course prior to the project.
+- Conducted smoke, regression, and sanity tests in the global maritime ship tracking domain.
+- Developed automation scripts using BDD and WebdriverIO within the project's custom framework
+</details>
+
+
+<details>
+  <summary><strong>a1qa — QA Automation Engineer Intern</strong></summary>
+
+#### Projects & Responsibilities
+1. Automation tests development
+2. Running tests and analyzing results
+3. Setting up and supporting environment for running automated tests
+4. Communication with the project team.
+
+</details>
+
+
+### 🔗 See full role history & details  
+➡️ [Visit my LinkedIn Profile](#)
+
+
 
 ---
 
 # 📂 Personal Projects  
-### *(Click to expand each section)*
 
 <details>
   <summary><strong>🦀 Rust Projects</strong></summary>
