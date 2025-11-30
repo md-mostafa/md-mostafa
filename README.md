@@ -64,7 +64,6 @@ I’m a Software Engineer & QA Automation Engineer passionate about building sca
 
 </details>
 
----
 
 <h3 id="cloud-devops">☁️ Cloud & DevOps</h3>
 
@@ -77,8 +76,6 @@ I’m a Software Engineer & QA Automation Engineer passionate about building sca
 
 </details>
 
----
-
 <h3 id="qa-automation">🧪 QA Automation</h3>
 
 <details>
@@ -90,8 +87,6 @@ I’m a Software Engineer & QA Automation Engineer passionate about building sca
 **Test Management:** Jira, TestRail  
 
 </details>
-
----
 
 <h3 id="ai-tools">🤖 AI & Misc Tools</h3>
 
@@ -110,7 +105,6 @@ I’m a Software Engineer & QA Automation Engineer passionate about building sca
 A curated overview of my experience across multiple companies & roles.  
 *(Click each company to expand)*
 
----
 
 <h3 id="jb-connect">JB Connect Ltd — Software Engineer</h3>
 
@@ -128,7 +122,6 @@ A curated overview of my experience across multiple companies & roles.
 
 </details>
 
----
 
 <h3 id="itransition">Itransition Software Bangladesh — QA Automation Engineer</h3>
 
@@ -153,7 +146,6 @@ A curated overview of my experience across multiple companies & roles.
 
 </details>
 
----
 
 <h3 id="a1qa">a1qa — QA Automation Intern</h3>
 
@@ -168,7 +160,6 @@ A curated overview of my experience across multiple companies & roles.
 
 </details>
 
----
 
 🔗 **See full experience on LinkedIn:**  
 👉 https://www.linkedin.com/in/md-mostafa-akash/
@@ -187,8 +178,6 @@ A high-performance, event-driven flash sale system built with clean architecture
 
 </details>
 
----
-
 ## 💡 Why Work With Me?
 
 - I bring **full-stack + automation + cloud** experience
@@ -202,14 +191,10 @@ A high-performance, event-driven flash sale system built with clean architecture
 
 If you'd like to collaborate, discuss an opportunity, or just connect, feel free to reach out:
 
----
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:md.mostafa.akash@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mostafa-akash/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/md-mostafa)
-
-
----
 
 
 
