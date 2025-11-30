@@ -140,7 +140,7 @@ Below is a curated overview of my industry experience across multiple companies 
 
 
 ### 🔗 See full role history & details  
-➡️ [Visit my LinkedIn Profile](#)
+➡️ [Visit my LinkedIn Profile](https://www.linkedin.com/in/md-mostafa-akash/)
 
 
 
