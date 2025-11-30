@@ -167,18 +167,19 @@ A high-performance, event-driven flash sale system built with clean architecture
 
 <h1 id="contact">📬 Contact</h1>
 
-<div>
-📫 How to reach me:  
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="md-mostafa-akash" data-version="v1">
-<a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/md-mostafa-akash?trk=profile-badge">Md Mostafa</a>
-</div>
-</div>
+If you'd like to collaborate, discuss an opportunity, or just connect, feel free to reach out:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/md-mostafa)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-mostafa-55bb341a6/)  
+---
 
-<a href='https://docs.github.com/en/developers'>
-<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
-</a>
+### 📧 Email  
+**md.mostafa.akash@gmail.com**
 
-![Profile views](https://gpvc.arturio.dev/md-mostafa)
+### 🔗 Links  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/md-mostafa-akash/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/md-mostafa)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](#)
+
+---
+
+### 👀 Profile Views  
+![](https://komarev.com/ghpvc/?username=md-mostafa&style=for-the-badge&color=blue)
