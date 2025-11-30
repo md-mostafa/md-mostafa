@@ -7,21 +7,70 @@ I am a passionate Software Engineer and QA Automation Engineer with a focus on b
 
 ---
 
-### 🛠️ **Tech Stack and Expertise:**
-
-#### **Software Development & DevOps:**
-- **Languages & Frameworks**: Next.js Nestjs, React, Amplify, React Native, Expo
-- **Cloud & DevOps**: AWS (CDK, ECS, ECR SES, SQS, RDS, Cloudwatch, Cloudtrail, WAF, Amplify, Cognito), Docker, Jenkins, CI/CD (Gitlab, Github Actions)
-- **Databases**: MySQL, PostgreSQL
-- **Others** : Zustand, Supabase, TanStackQuery, yup
-- **AI Agent** : Lovable
-
-#### **Quality Assurance & Automation:**
-- **Automation Frameworks**: Selenium, Appium, Cypress, WebdriverIO, Cucumber, RobotFramework
-- **Testing Tools**: TestNG, JUnit, Mocha-Chai, Postman, RestAssured
-- **Bug Tracking & Test Management**: Jira, TestRail
+### 🛠️ **Tech Stack & Expertise**
 
 ---
+
+<details>
+  <summary><strong>💻 Software Development</strong></summary>
+  <br/>
+
+- **Languages & Frameworks:**  
+  Next.js, NestJS, React, React Native, Expo, Amplify Gen 2, Axum, Svelte
+
+- **State & Data:**  
+  Zustand, TanStack Query, Supabase, Zod/Yup
+
+- **Databases:**  
+  PostgreSQL, MySQL
+
+</details>
+
+
+<details>
+  <summary><strong>☁️ Cloud & DevOps</strong></summary>
+  <br/>
+
+- **AWS Services:**  
+  CDK, ECS, ECR, SES, SQS, RDS, WAF, CloudWatch, CloudTrail, Amplify, Cognito
+
+- **DevOps & CI/CD:**  
+  Docker, GitHub Actions, GitLab CI, Jenkins
+
+</details>
+
+
+
+<details>
+  <summary><strong>🧪 QA Automation</strong></summary>
+  <br/>
+
+- **Automation Frameworks:**  
+  Selenium, Cypress, Appium, WebdriverIO, Robot Framework, Cucumber
+
+- **Testing Tools:**  
+  TestNG, JUnit, Mocha/Chai, Postman, RestAssured
+
+- **Test Management:**  
+  Jira, TestRail
+
+</details>
+
+
+<details>
+  <summary><strong>🤖 AI & Other Tools</strong></summary>
+  <br/>
+
+- **AI Tools:**  
+  Lovable
+
+- **Misc:**  
+  REST API development, CI/CD pipelines, frontend/backed integration
+
+</details>
+
+---
+
 
 ### 🚀 **Projects and Contributions:**
 1. **React Native Mobile Apps**: Developed UI components and built CI/CD pipelines for seamless automated deployments.
